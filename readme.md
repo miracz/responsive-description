@@ -1,6 +1,2 @@
-## This is a test
+## Responsive product description
 
-*Test*
-
-- Lorem
-- Ipsum
